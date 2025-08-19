@@ -1,0 +1,1 @@
+# Automatic-Checkout-Rule-Odoo-V16
