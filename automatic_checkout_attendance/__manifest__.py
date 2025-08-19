@@ -11,7 +11,7 @@
     """,
     'author': "Niazi Mahrab",
     'website': "https://niazimahrab.com/",
-    'license': 'LGPL-3',
+    'license': 'OPL-1',
     'category': 'Human Resources',
     'version': '16.0.1.0',
     'depends': ['hr', 'hr_attendance'],
@@ -22,4 +22,6 @@
     'installable': True,
     'application': True,
     'auto_install': False,
+    'price': 16.0,
+    'currency': 'USD',
 }
