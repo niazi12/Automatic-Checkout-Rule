@@ -14,6 +14,9 @@
     'license': 'LGPL-3',
     'category': 'Human Resources',
     'version': '17.0.1.0',
+    'license': 'OPL-1',
+    'category': 'Human Resources',
+    'version': '16.0.1.0',
     'depends': ['hr', 'hr_attendance'],
     'data': [
         'data/automatic_checkout_attendance_scheduler.xml',
